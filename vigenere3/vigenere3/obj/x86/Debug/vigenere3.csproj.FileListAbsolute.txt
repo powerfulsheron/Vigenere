@@ -1,0 +1,10 @@
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\vigenere3\vigenere3\bin\Debug\Vigenere.exe
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\vigenere3\vigenere3\bin\Debug\Vigenere.pdb
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\vigenere3\vigenere3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\vigenere3\vigenere3\obj\x86\Debug\vigenere3.Form1.resources
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\vigenere3\vigenere3\obj\x86\Debug\vigenere3.Form2.resources
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\vigenere3\vigenere3\obj\x86\Debug\vigenere3.Properties.Resources.resources
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\vigenere3\vigenere3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\vigenere3\vigenere3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\vigenere3\vigenere3\obj\x86\Debug\Vigenere.exe
+C:\Users\OSN\Documents\Visual Studio 2010\Projects\vigenere3\vigenere3\obj\x86\Debug\Vigenere.pdb
